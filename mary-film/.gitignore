@@ -1,0 +1,6 @@
+assets/clips/*
+assets/stills/*
+assets/vo/*
+build/*
+!assets/**/.gitkeep
+!build/.gitkeep

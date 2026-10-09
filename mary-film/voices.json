@@ -1,0 +1,28 @@
+{
+  "_note": "Character voice direction taken from the universe bible. 'openai_voice' and 'elevenlabs_voice_id' are starting points: audition them and replace. ElevenLabs ids below are placeholders you must fill in from your own voice library.",
+  "MARY": {
+    "openai_voice": "sage",
+    "elevenlabs_voice_id": "FILL_ME",
+    "direction": "Mature warm alto, Levantine cadence, unhurried and measured, velvety midrange with a slight rasp-ache, slow steady pacing, soft consonant accent. Already grieved and choosing to speak anyway. Intimate, as if remembering aloud."
+  },
+  "PETER": {
+    "openai_voice": "onyx",
+    "elevenlabs_voice_id": "FILL_ME",
+    "direction": "Male, late 50s, low tenor, rough gravel-timbred, blunt. Slow-to-moderate pace, quick to rise in volume when threatened or defensive. Neutral accent."
+  },
+  "ANDREW": {
+    "openai_voice": "echo",
+    "elevenlabs_voice_id": "FILL_ME",
+    "direction": "Young adult male, reedy tenor, nervous cadence, quick and clipped when unsettled, light breathy timbre, clear enunciation."
+  },
+  "LEVI": {
+    "openai_voice": "ash",
+    "elevenlabs_voice_id": "FILL_ME",
+    "direction": "Adult male, low-key baritone, even pitch, warm resonant timbre, deliberate and steady. Gains quiet firmness only when he finally speaks up."
+  },
+  "SAVIOUR": {
+    "openai_voice": "ballad",
+    "elevenlabs_voice_id": "FILL_ME",
+    "direction": "Warm, unhurried, measured male voice, apparent age 45-55, medium-low pitch, smooth velvety texture, steady slow pace, mild neutral accent. Gentle authority, never theatrical."
+  }
+}
